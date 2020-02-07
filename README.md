@@ -1,4 +1,4 @@
 # olc2-usac
 
-[1. Introducción](./summaries/1-introduccion.md)
+[1. Introducción](./summaries/1-introduccion/introduccion.md)
 
