@@ -24,9 +24,9 @@ el intérprete nos da la apariencia de ejecutar directamente operaciones especif
 
 ### 1.2 Estructura de un compilador
 
-**Análisis** (front-end): divide el programa fuente en componentes, genera una representación intermedia y durante dicho análisis puede detectar si el programa fuente esta mal formado sistemáticamente, si es así entonces deberá informar al usuario para que los pueda corregir. Esta información la almacena en una estructura llamada tabla de símbolos (que pasara a la parte de síntesis).
+**[Análisis](./analisis.md)** (front-end): divide el programa fuente en componentes, genera una representación intermedia y durante dicho análisis puede detectar si el programa fuente esta mal formado sistemáticamente, si es así entonces deberá informar al usuario para que los pueda corregir. Esta información la almacena en una estructura llamada tabla de símbolos (que pasara a la parte de síntesis).
 
-**Síntesis** (back-end): Construye  programa destino a partir de la representación intermedia y la tabla de símbolos.
+**[Síntesis](./sintesis.md)** (back-end): Construye  programa destino a partir de la representación intermedia y la tabla de símbolos.
 
 
 
